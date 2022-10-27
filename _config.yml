@@ -40,13 +40,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Hi, my name is Sihwan Hong(Hong is my family name) and I am a 3rd grade Collegian of Hallym University. One of my dreams is making games, so I am learning about Unity, Unreal Engine, C langauge and many other things now. I have made simple games while conducting Term Project.
+My favorite things : Games, Movies, Musics, Beers and Learning new things at school
 
 content:
   - title: Projects # Title for the section
@@ -59,16 +54,20 @@ content:
         link: 
         link_text: 
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  
+            icon: 
+            url: 
+          - title:  
+            icon: 
+            url: 
         quote: >
-          Short overview of the project (optional)
+          It's a simple racing game
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          You are cursed and fall into hell named MADO. You have to run endlessly.
+Be Careful! Undead monsters want your flesh and blood. You should dodge them while running.
+You can use magic by gaining items. Smash demons with powerful Spells!
+Made with Unity.
+
   - title: Experience
     layout: list
     content:
